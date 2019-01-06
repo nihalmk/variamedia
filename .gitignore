@@ -1,0 +1,12 @@
+node_modules/
+coverage/
+dist/
+.tmp/
+*.d.ts
+*.log
+*.tgz
+*.yaml
+.idea/
+.env
+docker-compose.yml
+inMemoryTest/globalConfig.json
